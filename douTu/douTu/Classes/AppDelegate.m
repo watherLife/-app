@@ -16,6 +16,9 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    //appdelegate == nil
+    
     // Override point for customization after application launch.
     return YES;
 }
